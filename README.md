@@ -13,6 +13,7 @@ This project includes:
 
 #  Project Structure
 
+```
 E-Commerce/
 │
 ├── frontend/ # User Website (React)
@@ -35,16 +36,15 @@ E-Commerce/
 │ └── package.json
 │
 └── README.md
+```
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 ## Frontend (User + Admin)
 - React.js
-- React Router DOM
-- Axios
-- Tailwind CSS / CSS
+- Rect Router DOM
 
 ## Backend
 - Node.js
